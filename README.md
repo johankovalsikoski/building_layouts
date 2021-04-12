@@ -1,4 +1,4 @@
-# building_layouts
+# Building Layouts
 
 Building Layouts from Flutter.dev
 
